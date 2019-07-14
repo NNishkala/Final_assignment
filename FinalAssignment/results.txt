@@ -1,0 +1,49 @@
+Albury:97.74%
+Badgerys's creek:96.86%
+Cobar:98.126%
+CoffsHarbour:94.86%
+Moree:98.46%
+NewCastle:95.81%
+NorahHead:95.5%
+NorfolkIsland:95.68%
+Penrith:98.24%
+Richmond:97.69%
+Sydney:97.125%
+Sydney airport:95.88%
+Wagga Wagga:97.98%
+William town:96.56%
+Wollongong:96.38%
+Canberra:96.95%
+Tuggeranong:96.66%
+Mount Ginini:97.24%
+Ballarat:97.49%
+Bendigo:97.89%
+Sale:97.89%
+Melbourne airport:98.14%
+Melbourne:98.029%
+Mildura:98.138%
+Nhil:98.218%
+Portland:97.99%
+Watsonia:98%
+Dartmoor:97.82%
+Brisbane:96.97%
+Cairns:95.05%
+Gold Coast:96.51%
+Townsville:95.92%
+Adelaide:97.80%
+Mount Gambier:97.89%
+Nuriootpa:98.4%
+Woomera:99.59%
+Albany:95.88%
+Witchcliffe:96.88%
+PearceRAAF:98.41%
+Perth Airport:98.14%
+Perth:98.24%
+SalmonGums:99.32%
+Walpole:96.87%
+Hobart:97.87%
+Launceston:97.34%
+Alice Springs:99.21%
+Darwin:95.36%
+Katherine:97.17%
+Uluru:99.21%
